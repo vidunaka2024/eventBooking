@@ -1,0 +1,2 @@
+/Users/imethvidunaka/Desktop/final_year_project_mobile_app/android/app/.cxx/Debug/3r3b303v/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/imethvidunaka/Desktop/final_year_project_mobile_app/android/app/.cxx/Debug/3r3b303v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
